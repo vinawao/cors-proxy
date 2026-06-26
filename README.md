@@ -9,9 +9,9 @@ cfat_6HogiVc5TjvsuCLTOokGd9NkXDphgZgW8MD1y2jTf6623460
 
 
 
+# proxy
 
-
-https://cors-proxy.denstv.workers.dev/?url=https://xtgem.com
+https://cors-proxy.denstv.workers.dev/?url=
 
 
 

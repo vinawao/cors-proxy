@@ -7,7 +7,7 @@ export default {
     const targetUrl = url.pathname.substring(1); 
     
     if (!targetUrl || !targetUrl.startsWith('http')) {
-      return new Response('Format salah. Gunakan: myproxy.dev/https://target-video.com/video.mp4', { status: 400 });
+      return new Response('Format salah. Gunakan: https://cors-proxy.denstv.workers.dev/<url target>', { status: 400 });
     }
 
     // 2. Handle CORS Preflight (OPTIONS request)

@@ -1,6 +1,4 @@
 
-
-
 name: Deploy CORS Proxy
 on:
   push:

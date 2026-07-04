@@ -1,4 +1,3 @@
 name = "cors-proxy1"
 main = "src/index1.js"
 compatibility_date = "2026-06-26"
-workers_dev = true

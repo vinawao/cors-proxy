@@ -1,3 +1,10 @@
-name = "cors-proxy1"
+name = "cors-proxy-1"
 main = "src/index1.js"
 compatibility_date = "2026-06-26"
+
+workers_dev = false
+
+routes = [
+  { pattern = "proxy1.denstv.workers.dev/*", zone_name = "denstv.workers.dev" }
+]
+

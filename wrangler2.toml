@@ -1,0 +1,4 @@
+name = "cors-proxy2"
+main = "src/index2.js"
+compatibility_date = "2026-06-26"
+workers_dev = true

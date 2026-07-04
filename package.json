@@ -2,9 +2,9 @@
   "name": "cors-proxy",
   "private": true,
   "scripts": {
-    "deploy:1": "wrangler deploy --config wrangler-1.toml",
-    "deploy:2": "wrangler deploy --config wrangler-2.toml",
-    "deploy:3": "wrangler deploy --config wrangler-3.toml"
+    "deploy:1": "wrangler deploy --config wrangler.toml",
+    "deploy:2": "wrangler deploy --config wrangler1.toml",
+    "deploy:3": "wrangler deploy --config wrangler2.toml"
   },
   "devDependencies": {
     "wrangler": "^4.0.0"
